@@ -17,6 +17,9 @@ const channels = require('./channels')
 
 const authentication = require('./authentication')
 
+// const MongoClient = require('mongodb').MongoClient;
+// const mongoService = require('feathers-mongodb');
+
 const app = express(feathers())
 
 // Load app configuration

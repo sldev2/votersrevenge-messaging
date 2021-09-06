@@ -10,6 +10,6 @@ module.exports = function (app) {
   app.configure(messages)
   app.configure(rooms)
   app.configure(subscriptions)
-  app.configure(posses)
-  app.configure(posseEdition)
+  // app.configure(posses)
+  // app.configure(posseEdition)
 }
