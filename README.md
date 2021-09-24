@@ -23,7 +23,7 @@ NOTE: A politician who has recently been elected is probably immune to the direc
 
 # votersrevenge-messaging
 
-The starting point for this project is a working example of a slack clone
+The starting point for this project is a working example of a slack clone, [Mattchewone/feathers-chat-app](https://github.com/mattchewone/feathers-chat-app)
 
 ## status
 ```
