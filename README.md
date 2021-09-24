@@ -26,12 +26,10 @@ NOTE: A politician who has recently been elected is probably immune to the direc
 The starting point for this project is a working example of a slack clone, [Mattchewone/feathers-chat-app](https://github.com/mattchewone/feathers-chat-app)
 
 ## status
-```
 As of 9/24/2021, some changes have been posted to this repo by the dev.
 
 ## errata
-```
-The spec originally called for nedb, but this has been abandoned in favor of mongoDb.
+The spec originally called for nedb, but this has been abandoned in favor of mongoDb. Also, the spec refers to "posseEdition", but that verbiage is no longer used. The new terminology is "local posse"
 
 ## Getting Started
 
